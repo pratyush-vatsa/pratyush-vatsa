@@ -15,6 +15,23 @@
 
 ---
 
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushvatsa11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-vatsa)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratyush-vatsa)
+[![Resume](https://img.shields.io/badge/Resume-%23666666.svg?style=for-the-badge&logo=readme&logoColor=white)](https://pratyushvatsa.tiiny.site/)
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages & Frameworks
@@ -42,7 +59,7 @@
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-F37626?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00758F?style=for-for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-00758F?style=for-the-badge&logo=tenable&logoColor=white" />
   <img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Hashcat-5A5A5A?style=for-the-badge&logo=hashnode&logoColor=white" />
   <img src="https://img.shields.io/badge/John%20the%20Ripper-0B0B0B?style=for-the-badge&logo=linux&logoColor=white" />
@@ -61,29 +78,12 @@
 
 ---
 
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushvatsa11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-vatsa)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratyush-vatsa)
-[![Resume](https://img.shields.io/badge/Resume-%23666666.svg?style=for-the-badge&logo=readme&logoColor=white)](https://pratyushvatsa.tiiny.site/)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyush-vatsa&show_icons=true&theme=github_dark&count_private=true" alt="Pratyush's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=pratyush-vatsa&theme=github-dark-blue" alt="Pratyush's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-vatsa&layout=compact&theme=github_dark" alt="Pratyush's Top Languages" />
-</p>
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </p>
 
 ---
