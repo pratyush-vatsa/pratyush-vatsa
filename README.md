@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushvatsa11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-vatsa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratyush-vatsa)
-[![Resume](https://img.shields.io/badge/Resume-%23666666.svg?style=for-the-badge&logo=readme&logoColor=white)]([https://pratyush-vatsa-resume.tiiny.site](https://drive.google.com/file/d/1YEioamQhdUPybrzBWJOdPp17wHxlBRHj/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-%23666666.svg?style=for-the-badge&logo=readme&logoColor=white)](https://pratyushvatsa.tiiny.site/)
 
 ---
 
