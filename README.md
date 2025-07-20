@@ -7,14 +7,14 @@
 ---
 
 - 🎓 I'm a Computer Science undergraduate at **VIT Vellore**, specializing in **Information Security**
-- 🔐 Hands-on with tools like **Burp Suite**, **Nmap**, **Metasploit**, **Wireshark**
+- 🔐 Hands-on with tools like **Burp Suite**, **Nmap**, **Metasploit**, **Wireshark**, **Hydra**, **John the Ripper**, **Hashcat**, **Nessus**
 - 💻 Built secure apps using **React.js**, **Flask**, and **Python**
 - ☁️ Experienced with **AWS**, **Microsoft Azure**, and deploying cloud services
-- 🚀 Passionate about **secure software engineering** and constant learning
+- 🚀 Passionate about **secure software engineering** and continuous learning
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushvatsa11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-vatsa)
@@ -25,17 +25,25 @@
 
 ## 🛠 Tech Stack
 
+### 👨‍💻 Programming, Web & Data
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,flask,mysql,sqlite,git,figma,aws,azure,r,matlab,tailwind,bootstrap,opencv,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,html,css,react,nodejs,express,flask,tailwind,bootstrap,figma,mysql,sqlite,aws,azure,git,vscode,postman,opencv,numpy,pandas,matplotlib,scikit-learn,plotly,linux" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Plotly-%234963FF?style=for-the-badge&logo=plotly&logoColor=white" />
-</div>
+### 🛡️ Cybersecurity Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-2E3A59?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-F37626?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-00758F?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-5A5A5A?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-0B0B0B?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCryptodome-343A40?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
