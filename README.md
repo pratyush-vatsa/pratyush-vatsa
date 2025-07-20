@@ -28,7 +28,7 @@
 ### 👨‍💻 Programming, Web & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,html,css,react,nodejs,express,flask,tailwind,bootstrap,figma,mysql,sqlite,aws,azure,git,vscode,postman,opencv,numpy,pandas,matplotlib,scikit-learn,plotly,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,html,css,react,nodejs,express,flask,tailwind,bootstrap,figma,mysql,sqlite,aws,azure,git,vscode,postman,opencv,linux" />
 </p>
 
 ### 🛡️ Cybersecurity Tools
