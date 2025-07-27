@@ -72,6 +72,7 @@
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
+| [**AI-Driven Detection Engineering Lab**](https://github.com/pratyush-vatsa/AI-Driven-Detection-Engineering-Lab-Platform-using-n8n-Automation.git) | 🤖 A lab platform using n8n automation for AI-powered security threat detection and response. | n8n, Python, AI/ML, Security Automation |
 | [**Virtual Zoo**](https://github.com/pratyush-vatsa/Virtualzoo) | 🐾 Developed an interactive wildlife education platform with engaging quizzes. | React.js, Bootstrap, JavaScript, CSS |
 | [**Secure Image Steganography**](https://github.com/pratyush-vatsa/Stegnography-Project.git) | 🔐 Built a Flask web application for AES-256 encrypted LSB image steganography, focusing on data security. | Python, Flask, NumPy, Pillow, PyCryptodome |
 | [**Robust Image Watermarking**](https://github.com/pratyush-vatsa/Robust-Digital-Image-Watermarking-Performance-Analysis-.git) | 📷 Implemented DCT-based watermarking with PSNR & SSIM metric analysis for digital image integrity. | Python, OpenCV, NumPy |
