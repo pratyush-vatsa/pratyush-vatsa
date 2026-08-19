@@ -1,5 +1,4 @@
 <h1 align="center">Pratyush Vatsa</h1>
-<p align="center">Computer Science graduate (VIT Vellore, 2026) — backend development & cybersecurity</p>
 
 <p align="center">
   <a href="mailto:pratyushvatsa11@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -9,7 +8,7 @@
 
 ---
 
-I build backend systems, then spend a fair amount of time trying to break them. Most of my work sits at the intersection of software development and security — APIs and services on one side, vulnerability assessment and penetration testing on the other. Winner of **iHackMyPlace**, a hackathon hosted by **Société Générale**, and a **Microsoft Certified: Azure AI Engineer Associate**.
+Built a WhatsApp bot so my parents could order groceries by voice. Turns out that's a much harder problem than it sounds. Also enjoy taking systems apart to see how they break (with permission).
 
 ### Tech Stack
 
@@ -48,19 +47,22 @@ I build backend systems, then spend a fair amount of time trying to break them. 
 
 **[WhatsApp Conversational Grocery Ordering System](https://github.com/pratyush-vatsa)**
 `Python` `FastAPI` `LLM/NLP` `OAuth 2.1`
-A backend connecting WhatsApp Cloud API, Groq Whisper, and Gemini LLM to turn multilingual voice or text into structured orders — with a multi-step safety system (OAuth 2.1 PKCE, spending caps, double-confirmation, real-time price checks) and timezone-aware auto-scheduling, running live on Render.
+A backend connecting WhatsApp Cloud API, Groq Whisper, and Gemini LLM to turn multilingual voice or text into structured orders, with a multi step safety system (OAuth 2.1 PKCE, spending caps, double confirmation, real time price checks) and timezone aware auto scheduling, running live on Render.
 
 **[Secure Image Steganography Web Application](https://github.com/pratyush-vatsa/Stegnography-Project.git)** · [Live Demo](https://securesteganography.com/)
 `Python` `Flask` `Pillow` `NumPy`
-AES-256 encryption combined with adaptive LSB steganography, handling batch processing of 50+ images per session. Achieved PSNR > 45 dB and SSIM > 0.99 across formats, deployed on GCP with a TLS-secured custom domain.
+AES 256 encryption combined with adaptive LSB steganography, handling batch processing of 50+ images per session. Achieved PSNR > 45 dB and SSIM > 0.99 across formats, deployed on GCP with a TLS secured custom domain.
 
-**[AI-Driven Pentesting Automation App](https://github.com/pratyush-vatsa/AI-Driven-Detection-Engineering-Lab-Platform-using-n8n-Automation.git)**
+**[AI Driven Pentesting Automation App](https://github.com/pratyush-vatsa/AI-Driven-Detection-Engineering-Lab-Platform-using-n8n-Automation.git)**
 `React` `Node.js` `MongoDB` `n8n` `Docker`
-A Dockerized platform orchestrating Nmap and OpenVAS scans via n8n workflows, cutting manual recon time by 60%. Google Gemini auto-generates CVSS-rated vulnerability reports with prioritized remediation steps, cutting triage time by 70%.
+A Dockerized platform orchestrating Nmap and OpenVAS scans via n8n workflows, cutting manual recon time by 60%. Google Gemini auto generates CVSS rated vulnerability reports with prioritized remediation steps, cutting triage time by 70%.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-vatsa&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-vatsa&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-vatsa&show_icons=true&theme=dark&hide_border=true&hide=prs" height="165" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pratyush-vatsa"><img src="https://img.shields.io/badge/View_full_GitHub_profile-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
