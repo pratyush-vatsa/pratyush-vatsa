@@ -1,5 +1,5 @@
 <h1 align="center">Pratyush Vatsa</h1>
-<p align="center"><i>Backend &amp; Security</i></p>
+<p align="center"><i>Build it. Break it. Understand it.</i></p>
 
 <p align="center">
   <a href="mailto:pratyushvatsa11@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
