@@ -10,12 +10,11 @@
 ---
 
 🔭 Building things, then quietly trying to take them apart again
-🛠️ Backend and security, mostly whatever is on fire that day
+🛠️ Usually working on whatever is broken or on fire that day
 🐛 If it looks like it is working, I probably just have not looked closely enough
-☕ Running on caffeine and unresolved stack traces
 
-> "The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead lined room with armed guards, and even then I have my doubts."
-> — Gene Spafford
+> "What I cannot create, I do not understand."
+> — Richard Feynman
 
 ### Tech Stack
 
