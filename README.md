@@ -1,3 +1,4 @@
+
 <h1 align="center">Pratyush Vatsa</h1>
 <p align="center"><i>Build it. Break it. Understand it.</i></p>
 
@@ -9,9 +10,9 @@
 
 ---
 
-🔭 Building things to understand how they work beneath the surface  
-🛠️ Turning ideas into systems, then testing how far they can be pushed  
-🐛 Curious about the edge cases hiding behind "it works"
+**Build things worth understanding.**  
+**Understand things worth breaking.**  
+**Keep the interesting parts.**
 
 > "What I cannot create, I do not understand."
 > — Richard Feynman
