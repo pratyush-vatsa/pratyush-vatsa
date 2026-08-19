@@ -1,90 +1,66 @@
-<h1 align="center">Hi there 👋, I'm Pratyush Vatsa (@pratyush-vatsa)</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Cloud+Enthusiast+%7C+Cybersecurity+Explorer;Building+Innovative%2C+Secure%2C+and+Scalable+Solutions" alt="Typing SVG" />
-</div>
-
----
-
-- 🎓 I'm a Computer Science undergraduate at **VIT Vellore**, with a keen interest in **Software Engineering** and **Information Security**.
-- 💡 Passionate about crafting **robust and scalable applications** and exploring the depths of **cloud technologies**.
-- 💻 Experienced in building dynamic web solutions using **React.js**, **Flask**, and **Python**.
-- 🔐 Familiar with cybersecurity fundamentals and tools like **Burp Suite**, **Nmap**, **Metasploit**, and **Wireshark**.
-- ☁️ Hands-on with **AWS** and **Microsoft Azure** for deploying and managing cloud services.
-- 🚀 Always eager to learn new technologies and contribute to exciting projects!
-
----
-
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushvatsa11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-vatsa)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratyush-vatsa)
-[![Resume](https://img.shields.io/badge/Resume-%23666666.svg?style=for-the-badge&logo=readme&logoColor=white)](https://pratyushvatsa.tiiny.site/)
-
----
-
-## 💬 Random Dev Quote
+<h1 align="center">Pratyush Vatsa</h1>
+<p align="center">Computer Science graduate (VIT Vellore, 2026) — backend development & cybersecurity</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+  <a href="mailto:pratyushvatsa11@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pratyush-vatsa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://pratyushvatsa.tiiny.site/"><img src="https://img.shields.io/badge/Resume-333333?style=flat-square&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+I build backend systems, then spend a fair amount of time trying to break them. Most of my work sits at the intersection of software development and security — APIs and services on one side, vulnerability assessment and penetration testing on the other. Winner of **iHackMyPlace**, a hackathon hosted by **Société Générale**, and a **Microsoft Certified: Azure AI Engineer Associate**.
 
-### 👨‍💻 Programming Languages & Frameworks
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,html,css,react,nodejs,express,flask,tailwind,bootstrap"/>
-</p>
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### ☁️ Cloud & Databases
+**Backend & Web**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,mysql,sqlite"/>
-</p>
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ⚙️ Tools & Others
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,opencv,linux,figma"/>
-</p>
-
-### 🛡️ Cybersecurity Tools (Basics)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2E3A59?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-F37626?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00758F?style=for-the-badge&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hashcat-5A5A5A?style=for-the-badge&logo=hashnode&logoColor=white" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-0B0B0B?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCryptodome-343A40?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| [**AI-Driven Detection Engineering Lab**](https://github.com/pratyush-vatsa/AI-Driven-Detection-Engineering-Lab-Platform-using-n8n-Automation.git) | 🤖 A lab platform using n8n automation for AI-powered security threat detection and response. | n8n, Python, AI/ML, Security Automation |
-| [**Virtual Zoo**](https://github.com/pratyush-vatsa/Virtualzoo) | 🐾 Developed an interactive wildlife education platform with engaging quizzes. | React.js, Bootstrap, JavaScript, CSS |
-| [**Secure Image Steganography**](https://github.com/pratyush-vatsa/Stegnography-Project.git) | 🔐 Built a Flask web application for AES-256 encrypted LSB image steganography, focusing on data security. | Python, Flask, NumPy, Pillow, PyCryptodome |
-| [**Robust Image Watermarking**](https://github.com/pratyush-vatsa/Robust-Digital-Image-Watermarking-Performance-Analysis-.git) | 📷 Implemented DCT-based watermarking with PSNR & SSIM metric analysis for digital image integrity. | Python, OpenCV, NumPy |
+**Security Testing**
+![Metasploit](https://img.shields.io/badge/Metasploit-2E3A59?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37626?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00758F?style=flat-square&logo=tenable&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-vatsa&show_icons=true&theme=github_dark&count_private=true" alt="Pratyush's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=pratyush-vatsa&theme=github-dark-blue" alt="Pratyush's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-vatsa&layout=compact&theme=github_dark" alt="Pratyush's Top Languages" />
-</p>
+**[WhatsApp Conversational Grocery Ordering System](https://github.com/pratyush-vatsa)**
+`Python` `FastAPI` `LLM/NLP` `OAuth 2.1`
+A backend connecting WhatsApp Cloud API, Groq Whisper, and Gemini LLM to turn multilingual voice or text into structured orders — with a multi-step safety system (OAuth 2.1 PKCE, spending caps, double-confirmation, real-time price checks) and timezone-aware auto-scheduling, running live on Render.
+
+**[Secure Image Steganography Web Application](https://github.com/pratyush-vatsa/Stegnography-Project.git)** · [Live Demo](https://securesteganography.com/)
+`Python` `Flask` `Pillow` `NumPy`
+AES-256 encryption combined with adaptive LSB steganography, handling batch processing of 50+ images per session. Achieved PSNR > 45 dB and SSIM > 0.99 across formats, deployed on GCP with a TLS-secured custom domain.
+
+**[AI-Driven Pentesting Automation App](https://github.com/pratyush-vatsa/AI-Driven-Detection-Engineering-Lab-Platform-using-n8n-Automation.git)**
+`React` `Node.js` `MongoDB` `n8n` `Docker`
+A Dockerized platform orchestrating Nmap and OpenVAS scans via n8n workflows, cutting manual recon time by 60%. Google Gemini auto-generates CVSS-rated vulnerability reports with prioritized remediation steps, cutting triage time by 70%.
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-vatsa&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-vatsa&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+</p>
