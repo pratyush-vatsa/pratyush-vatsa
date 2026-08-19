@@ -1,4 +1,5 @@
 <h1 align="center">Pratyush Vatsa</h1>
+<p align="center"><i>Backend &amp; Security</i></p>
 
 <p align="center">
   <a href="mailto:pratyushvatsa11@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -8,7 +9,13 @@
 
 ---
 
-*[intro placeholder - waiting on a couple of real details from you before writing this properly]*
+🔭 Building things, then quietly trying to take them apart again
+🛠️ Backend and security, mostly whatever is on fire that day
+🐛 If it looks like it is working, I probably just have not looked closely enough
+☕ Running on caffeine and unresolved stack traces
+
+> "The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead lined room with armed guards, and even then I have my doubts."
+> — Gene Spafford
 
 ### Tech Stack
 
@@ -56,10 +63,3 @@ AES 256 encryption combined with adaptive LSB steganography, handling batch proc
 **[AI Driven Pentesting Automation App](https://github.com/pratyush-vatsa/AI-Driven-Detection-Engineering-Lab-Platform-using-n8n-Automation.git)**
 `React` `Node.js` `MongoDB` `n8n` `Docker`
 A Dockerized platform orchestrating Nmap and OpenVAS scans via n8n workflows, cutting manual recon time by 60%. Google Gemini auto generates CVSS rated vulnerability reports with prioritized remediation steps, cutting triage time by 70%.
-
----
-
-<p align="center">
-  <a href="https://github.com/pratyush-vatsa?tab=followers"><img src="https://img.shields.io/github/followers/pratyush-vatsa?style=flat-square&logo=github&label=Followers" /></a>
-  <a href="https://github.com/pratyush-vatsa"><img src="https://img.shields.io/badge/View_full_GitHub_profile-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
