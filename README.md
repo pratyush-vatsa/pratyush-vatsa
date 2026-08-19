@@ -8,7 +8,7 @@
 
 ---
 
-Built a WhatsApp bot so my parents could order groceries by voice. Turns out that's a much harder problem than it sounds. Also enjoy taking systems apart to see how they break (with permission).
+*[intro placeholder - waiting on a couple of real details from you before writing this properly]*
 
 ### Tech Stack
 
@@ -60,9 +60,6 @@ A Dockerized platform orchestrating Nmap and OpenVAS scans via n8n workflows, cu
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-vatsa&show_icons=true&theme=dark&hide_border=true&hide=prs" height="165" alt="GitHub stats" />
-</p>
-
-<p align="center">
+  <a href="https://github.com/pratyush-vatsa?tab=followers"><img src="https://img.shields.io/github/followers/pratyush-vatsa?style=flat-square&logo=github&label=Followers" /></a>
   <a href="https://github.com/pratyush-vatsa"><img src="https://img.shields.io/badge/View_full_GitHub_profile-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
